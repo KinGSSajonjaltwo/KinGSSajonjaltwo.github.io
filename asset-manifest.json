@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.646bf6d2.css",
-    "main.js": "/static/js/main.ed868958.js",
+    "main.css": "/static/css/main.e030fec3.css",
+    "main.js": "/static/js/main.4954962e.js",
     "static/media/mainPageBG4.png": "/static/media/mainPageBG4.2f73bc377acefdcd55aa.png",
+    "static/media/pocaBG.png": "/static/media/pocaBG.356c8e1374a3e45d88f2.png",
     "static/media/mainLogo.png": "/static/media/mainLogo.52cc11e2fb7da4303831.png",
+    "static/media/pictureframe.png": "/static/media/pictureframe.eca8cea5a3912ddab467.png",
     "static/media/youactivactedposeCard.jpg": "/static/media/youactivactedposeCard.66f0c1888bdfd4650c4f.jpg",
     "static/media/Rotate.svg": "/static/media/Rotate.fe303f4439ce40d4c509.svg",
     "static/media/maintestbutton2.svg": "/static/media/maintestbutton2.32189775bd94503a2304.svg",
@@ -17,11 +19,11 @@
     "static/media/camera1.svg": "/static/media/camera1.abcfec4bfb2646d7a1f0.svg",
     "static/media/More.svg": "/static/media/More.684d3785d0917cb54bf5.svg",
     "static/media/Play.svg": "/static/media/Play.95f0d878b14d72b52a1c.svg",
-    "main.646bf6d2.css.map": "/static/css/main.646bf6d2.css.map",
-    "main.ed868958.js.map": "/static/js/main.ed868958.js.map"
+    "main.e030fec3.css.map": "/static/css/main.e030fec3.css.map",
+    "main.4954962e.js.map": "/static/js/main.4954962e.js.map"
   },
   "entrypoints": [
-    "static/css/main.646bf6d2.css",
-    "static/js/main.ed868958.js"
+    "static/css/main.e030fec3.css",
+    "static/js/main.4954962e.js"
   ]
 }
