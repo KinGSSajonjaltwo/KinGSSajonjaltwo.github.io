@@ -1,5 +1,6 @@
 {
-  "name": "사진그거",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -17,11 +18,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
-  "short_name": "사진그거",
-  "display": "fullscreen",
+  "start_url": ".",
+  "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "orientation": "portrait",
-  "description" : "카드기반 포즈 추천 서비스"
+  "background_color": "#ffffff"
 }
